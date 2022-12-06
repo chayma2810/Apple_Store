@@ -8,7 +8,10 @@
    "price":2.500,
    "description":"Breaking news: Series 7 is the most durable Apple Watch ever built. Fundamental design changes were needed to achieve the vision of the larger Always-On Retina display.These same innovations also helped make the most crack‑resistant front crystal yet. Crack ResistantOur strongest front crystal ever.",
    "onsale":true,
-   "varients":[{"id" :123,"color" :"Black","image":"../src/assets/Apple Watch Series 7 black","quantity":30},
+   "varients":[{"id" :123,
+   "color" :"Black",
+   "image":"../src/assets/Apple Watch Series 7 black",
+   "quantity":30},
                {"id" :124,"color" :"Blue","image":"../src/assets/Apple Watch Series 7 blue","quantity":30},
                {"id" :125,"color" :"white","image":"../src/assets/Apple Watch Series 7 white","quantity":30}
    ]
