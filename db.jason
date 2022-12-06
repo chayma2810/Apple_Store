@@ -1,0 +1,191 @@
+{
+ "products" : [
+ {
+   "category":"Watch",
+   "name":"Apple Watch Series 7",
+   "image":"../src/assets/Apple Watch Series 7 black",
+   "onStock":true,
+   "price":2,500;
+   "description":"Breaking news: Series 7 is the most durable Apple Watch ever built. Fundamental design changes were needed to achieve the vision of the larger Always-On Retina display.These same innovations also helped make the most crack‑resistant front crystal yet. Crack ResistantOur strongest front crystal ever.";
+   "onsale":true;
+   "varients":[{"id" :123,"color" :"Black","image":"../src/assets/Apple Watch Series 7 black","quantity":30},
+               {"id" :124,"color" :"Blue","image":"../src/assets/Apple Watch Series 7 blue","quantity":30},
+               {"id" :125,"color" :"white","image":"../src/assets/Apple Watch Series 7 white","quantity":30}
+   ];
+ },
+ { "category":"Watch",
+ "name":"Apple Watch Series 8",
+ "image":"../src/assets/Apple Watch Series 8 white",
+ "onStock":true,
+ "price":1,500;
+ "description":"Apple Watch Series 8 has an innovative new sensor that tracks your temperature while you sleep, so you can see changes over time. Cycle Tracking uses this data to provide a retrospective estimate of when you likely ovulated, which can be helpful for family planning.";
+ "onsale":true;
+ "varients":[{"id" :126,"color" :"Black","image":"../src/assets/Apple Watch Series 8 black","quantity":30},
+             {"id" :127,"color" :"Grey","image":"../src/assets/Apple Watch Series 8 grey","quantity":30},
+             {"id" :128,"color" :"White","image":"../src/assets/Apple Watch Series 8 white","quantity":30}
+             {"id" :129,"color" :"Red","image":"../src/assets/Apple Watch Series 8 red","quantity":30}
+ ];
+ },
+ {
+  "category":"Watch",
+  "name":"Apple Watch Ultra",
+  "image":"../src/assets/Apple Watch Ultra grey",
+  "onStock":true,
+  "price":2,500;
+  "description":"Breaking news: Series 7 is the most durable Apple Watch ever built. Fundamental design changes were needed to achieve the vision of the larger Always-On Retina display.These same innovations also helped make the most crack‑resistant front crystal yet. Crack ResistantOur strongest front crystal ever.";
+  "onsale":true;
+  "varients":[{"id" :130,"color" :"Grey","image":"../src/assets/Apple Watch Ultra grey","quantity":30},
+              {"id" :131,"color" :"Blue","image":"../src/assets/Apple Watch Ultra blue","quantity":30},
+              {"id" :132,"color" :"Orange","image":"../src/assets/Apple Watch Ultra orange","quantity":30}
+  ];
+},
+{
+  "category":"ipad",
+  "name":"ipad air (5th generation)",
+  "image":"../src/assets/ipad air (5th generation) black",
+  "onStock":true,
+  "price":7,500;
+  "description":"Breaking news: Series 7 is the most durable Apple Watch ever built. Fundamental design changes were needed to achieve the vision of the larger Always-On Retina display.These same innovations also helped make the most crack‑resistant front crystal yet. Crack ResistantOur strongest front crystal ever.";
+  "onsale":true;
+  "varients":[{"id" :132,"color" :"Black","image":"../src/assets/ipad air (5th generation) black","quantity":30},
+              {"id" :133,"color" :"Blue","image":"../src/assets/ipad air (5th generation) blue","quantity":30},
+              {"id" :134,"color" :"Pink","image":"../src/assets/ipad air (5th generation) pink","quantity":30},
+              {"id" :135,"color" :"Grey","image":"../src/assets/ipad air (5th generation) grey","quantity":30},
+              {"id" :136,"color" :"White","image":"../src/assets/ipad air (5th generation) white","quantity":30}
+  ];
+},
+{
+  "category":"ipad",
+  "name":"iPad Mini (6th generation)",
+  "image":"../src/assets/iPad Mini (6th generation) black",
+  "onStock":true,
+  "price":4,500;
+  "description":"The iPad mini 6 is ideal for reading. My only complaint about the iPad mini 6 is storage. It comes with a base 64GB, which is really on the the low end of what's useful these days. I would have happily paid extra for an upgrade to 128GB, but that's not an option.";
+  "onsale":true;
+  "varients":[{"id" :137,"color" :"Black","image":"../src/assets/iPad Mini (6th generation) black","quantity":30},
+              {"id" :138,"color" :"Blue","image":"../src/assets/iPad Mini (6th generation) blue","quantity":30},
+              {"id" :139,"color" :"Pink","image":"../src/assets/iPad Mini (6th generation) pink","quantity":30},
+              {"id" :140,"color" :"Grey","image":"../src/assets/iPad Mini (6th generation) grey","quantity":30}
+              
+  ];
+},
+{
+  "category":"ipad",
+  "name":"iPad Pro (6th generation)",
+  "image":"../src/assets/iPad Pro (6th generation) grey",
+  "onStock":true,
+  "price":4,500;
+  "description":"The sixth-generation iPad Pro uses an Apple M2 SoC. It features an eight-core CPU, an 10-core GPU, and a 16-core Neural Engine. Internal storage options include 128 GB, 256 GB, 512 GB, 1 TB and 2 TB. The 128, 256, and 512 GB versions includes 8 GB of RAM, while the 1 and 2 TB versions are bundled with 16 GB of RAM.";
+  "onsale":true;
+  "varients":[
+              {"id" :141,"color" :"white","image":"../src/assets/iPad Pro (6th generation) white","quantity":30},
+              {"id" :142,"color" :"Grey","image":"../src/assets/iPad Pro (6th generation) grey","quantity":30}
+              
+  ];
+},
+{
+  "category":"ipad",
+  "name":"iPad Pro (10th generation)",
+  "image":"../src/assets/iPad Pro (10th generation) yellow",
+  "onStock":true,
+  "price":4,500;
+  "description":"Apps‑olutely. iPad comes with powerful and capable apps like Photos, Maps, Messages, Apple News, Mail and Safari. And with over a million apps on the App Store designed just for iPad, you'll find the right app for anything you want to do";
+  "onsale":true;
+  "varients":[
+              {"id" :143,"color" :"Yellow","image":"../src/assets/iPad Pro (10th generation) yellow","quantity":30},
+              {"id" :144,"color" :"Pink","image":"../src/assets/iPad Pro (10th generation) pink","quantity":30},
+              {"id" :145,"color" :"Grey","image":"../src/assets/iPad Pro (10th generation) grey","quantity":30},
+              {"id" :146,"color" :"Blue","image":"../src/assets/iPad Pro (10th generation) blue","quantity":30}
+              
+  ];
+},
+{
+  "category":"iphone",
+  "name":"iphone 12 pro",
+  "image":"../src/assets/iphone 12 pro gold",
+  "onStock":true,
+  "price":8,500;
+  "description":"L'iPhone 12 Pro est le modèle haut de gamme de la 14e génération de smartphone d'Apple annoncé le 13 octobre 2020. Il est équipé d'un écran de 6,1 pouces OLED HDR 60 Hz, d'un triple capteur photo avec ultra grand-angle et téléobjectif (x4 optique) et d'un SoC Apple A14 Bionic compatible 5G (sub-6 GHz).";
+  "onsale":true;
+  "varients":[
+              {"id" :147,"color" :"Gold","image":"../src/assets/iphone 12 pro gold","quantity":30},
+              {"id" :148,"color" :"Blue","image":"../src/assets/iphone 12 pro blue","quantity":30},
+              {"id" :149,"color" :"Black","image":"../src/assets/iphone 12 pro black","quantity":30},
+              {"id" :150,"color" :"White","image":"../src/assets/iphone 12 pro white","quantity":30}
+              
+  ];
+},
+{
+  "category":"iphone",
+  "name":"iphone 12",
+  "image":"../src/assets/iphone 12 pus",
+  "onStock":true,
+  "price":2,500;
+  "description":"Caractéristiques techniques de l'iPhone 12. L'écran de l'iPhone 12 mini a des angles arrondis qui suivent la ligne élégante de l'appareil et s'inscrivent dans un rectangle standard. Si l'on mesure ce rectangle, l'écran affiche une diagonale de 5,42 pouces (la zone d'affichage réelle est moindre).";
+  "onsale":true;
+  "varients":[
+              {"id" :151,"color" :"Purple","image":"../src/assets/iphone 12 purple","quantity":30},
+              {"id" :152,"color" :"Blue","image":"../src/assets/iphone 12 pus blue","quantity":30},
+              {"id" :153,"color" :"Black","image":"../src/assets/iphone 12 black","quantity":30},
+              {"id" :154,"color" :"White","image":"../src/assets/iphone 12 white","quantity":30},
+              {"id" :155,"color" :"Green","image":"../src/assets/iphone 12 pus","quantity":30},
+              {"id" :156,"color" :"Red","image":"../src/assets/iphone 12 red","quantity":30}
+              
+  ];
+},
+{
+  "category":"iphone",
+  "name":"iphone 13 pro max",
+  "image":"../src/assets/iphone 13 pro max black",
+  "onStock":true,
+  "price":4,500;
+  "description":"The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7" screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling. The benefit of such a gigantic phone is that it also comes with the biggest battery of all iPhone 13 series.";
+  "onsale":true;
+  "varients":[
+              {"id" :157,"color" :"Gold","image":"../src/assets/iphone 13 pro max gold","quantity":30},
+              {"id" :158,"color" :"Blue","image":"../src/assets/viphone 13 pro max blue","quantity":30},
+              {"id" :159,"color" :"Black","image":"../src/assets/iphone 13 pro max black","quantity":30},
+              {"id" :160,"color" :"White","image":"../src/assets/iphone 13 pro max white","quantity":30}
+             
+              
+  ];
+},
+{
+  "category":"iphone",
+  "name":"iphone 13",
+  "image":"../src/assets/iphone 13 gold",
+  "onStock":true,
+  "price":3,500;
+  "description":"The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7" screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling. The benefit of such a gigantic phone is that it also comes with the biggest battery of all iPhone 13 series.";
+  "onsale":true;
+  "varients":[
+              {"id" :161,"color" :"Gold","image":"../src/assets/iphone 13 gold","quantity":30},
+              {"id" :162,"color" :"Blue","image":"../src/assets/iphone 13 blue","quantity":30},
+              {"id" :163,"color" :"Black","image":"../src/assets/iphone 13 black","quantity":30},
+              {"id" :164,"color" :"White","image":"../src/assets/iphone 13 white","quantity":30},
+              {"id" :165,"color" :"Purple","image":"../src/assets/iphone 13 purple","quantity":30},
+              {"id" :166,"color" :"Red","image":"../src/assets/iphone 13 red","quantity":30}
+             
+              
+  ];
+},
+{
+  "category":"iphone",
+  "name":"iphone 14",
+  "image":"../src/assets/iphone 14 purple",
+  "onStock":true,
+  "price":3,500;
+  "description":"The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7" screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling. The benefit of such a gigantic phone is that it also comes with the biggest battery of all iPhone 13 series.";
+  "onsale":true;
+  "varients":[
+              {"id" :167,"color" :"Gold","image":"../src/assets/iphone 14 gold","quantity":30},
+              {"id" :168,"color" :"White","image":"../src/assets/iphone 14 white","quantity":30},
+              {"id" :169,"color" :"Purple","image":"../src/assets/iphone 14 purple","quantity":30}
+             
+              
+  ];
+}
+
+ ]
+
+}
